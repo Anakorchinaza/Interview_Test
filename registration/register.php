@@ -48,7 +48,7 @@
                 $mail->Host       = 'smtp.gmail.com';
                 $mail->SMTPAuth   = true;
                 $mail->Username   = 'anakor.chinaza.s@gmail.com';
-                $mail->Password   = 'ngjvbmjlaqmudeqj'; 
+                $mail->Password   = ''; 
                 $mail->SMTPSecure = 'ssl';            
                 $mail->Port       = 465;               
     
